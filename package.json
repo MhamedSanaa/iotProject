@@ -1,0 +1,17 @@
+{
+  "name": "iot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xbee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsrender": "^1.0.13",
+    "request": "^2.88.2",
+    "serialport": "^11.0.0",
+    "xbee-api": "^0.6.0"
+  }
+}
