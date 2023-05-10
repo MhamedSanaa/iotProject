@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.4.0",
+    "firebase-admin": "^11.8.0",
     "jsrender": "^1.0.13",
     "request": "^2.88.2",
     "serialport": "^11.0.0",
